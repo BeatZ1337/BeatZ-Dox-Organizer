@@ -56,3 +56,7 @@ with open("dox.txt", "a+") as f:
    f.write('Dads Last Name : '+dad2+'\n')
    f.write('\n')
    f.write('Extra Info : '+extra+'\n')
+   print('Organizing Dox...')
+   time.sleep(1)
+   print('Dox Finished.')
+   
